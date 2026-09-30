@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch / YOLO weights (auto-downloaded by Ultralytics on first run)
+*.pt
+yolov8n_openvino_model/
+weights/
+
+# Temporary / Log files
+*.log
+kernel.errors.txt
+
+# OS / IDE
+.vscode/
+.idea/
+Thumbs.db
